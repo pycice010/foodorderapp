@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264735718524",
+    "project_id": "foodorder-d7259",
+    "storage_bucket": "foodorder-d7259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264735718524:android:8abf2af469179837535df9",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264735718524-9d5ig07lqmi3r65qp3h8ov1357mi175k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtt21c52j7Ywx8xWCKQbw34R639QSsuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264735718524-9d5ig07lqmi3r65qp3h8ov1357mi175k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
